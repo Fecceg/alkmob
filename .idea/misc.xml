@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/circle.xml" value="0.3685" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-land/activity_main.xml" value="0.33319112627986347" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-land/activity_register.xml" value="0.5374779541446209" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-land/activity_szallasok.xml" value="0.5374779541446209" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-land/custom_menu_item.xml" value="0.5374779541446209" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-land/list_szallas.xml" value="0.5374779541446209" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.476171875" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-sw600dp/activity_register.xml" value="0.476171875" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-sw600dp/activity_szallasok.xml" value="0.476171875" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-sw600dp/custom_menu_item.xml" value="0.476171875" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-sw600dp/list_szallas.xml" value="0.476171875" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.36923078006541266" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_register.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_szallasok.xml" value="0.2421875" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/colors.xml" value="0.4433876811594203" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/custom_menu_item.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/list_szallas.xml" value="0.4433876811594203" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/custom_menu_item.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/szallas_list_menu.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/nexylion/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5675" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
